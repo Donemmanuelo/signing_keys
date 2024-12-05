@@ -32,3 +32,5 @@ allows to choose a bigger mouse cursor, making to locate on the screen.
 
 For user which graphical interface is not an option or choice, the can use the screen reader. The most popular screen reader is the orca which is usually installed by default in most distributions. Orca generates a synthesized voice to report screen events and to read the text under the mouse cursor. Not all deskop applications are fully adapted for screen readers and not all not all users will find it easy to use them.
 Web Browser
+
+
